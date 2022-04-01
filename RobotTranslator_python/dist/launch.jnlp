@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/Xabier/SkyDrive/Apps_Xabi/RobotTranslator/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>RobotTranslator</title>
+        <vendor>Xabier</vendor>
+        <homepage href=""/>
+        <description>RobotTranslator</description>
+        <description kind="short">RobotTranslator</description>
+    <offline-allowed/>
+</information>
+    <update check="background"/>
+    <resources>
+        <j2se version="1.7+"/>
+        <jar href="RobotTranslator.jar" main="true"/>
+    <jar href="lib/ou.jar"/>
+<jar href="lib/beansbinding-1.2.1.jar"/>
+</resources>
+    <application-desc main-class="Gui.MainGui">
+    </application-desc>
+</jnlp>
