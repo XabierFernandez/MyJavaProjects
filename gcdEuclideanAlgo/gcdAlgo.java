@@ -15,7 +15,7 @@ public class gcdAlgo {
 
         System.out.printf("Gcd using Eclidean algotithm is: %d\n", gcd(p, q));  
         
-
+        sc.close();
     }
 
     public static int gcd (int p, int q){
