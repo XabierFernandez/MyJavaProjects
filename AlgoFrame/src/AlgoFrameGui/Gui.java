@@ -158,7 +158,7 @@ public class Gui extends javax.swing.JFrame {
                                 .addGap(18, 18, 18)
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jButton1)
-                                    .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 85, javax.swing.GroupLayout.PREFERRED_SIZE))))))
+                                    .addComponent(jButton2))))))
                 .addGap(15, 15, 15))
         );
         layout.setVerticalGroup(
